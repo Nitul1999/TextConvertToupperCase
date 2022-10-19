@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextConvertToupperCase/static/css/main.e6c13ad2.css",
-    "main.js": "/TextConvertToupperCase/static/js/main.2d75be18.js",
-    "static/js/787.28cb0dcd.chunk.js": "/TextConvertToupperCase/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/TextConvertToupperCase/index.html",
-    "main.e6c13ad2.css.map": "/TextConvertToupperCase/static/css/main.e6c13ad2.css.map",
-    "main.2d75be18.js.map": "/TextConvertToupperCase/static/js/main.2d75be18.js.map",
-    "787.28cb0dcd.chunk.js.map": "/TextConvertToupperCase/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Textanalyze/static/css/main.e6c13ad2.css",
+    "main.js": "/Textanalyze/static/js/main.aa753372.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Textanalyze/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Textanalyze/index.html",
+    "main.e6c13ad2.css.map": "/Textanalyze/static/css/main.e6c13ad2.css.map",
+    "main.aa753372.js.map": "/Textanalyze/static/js/main.aa753372.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Textanalyze/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2d75be18.js"
+    "static/js/main.aa753372.js"
   ]
 }
